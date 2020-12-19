@@ -1,4 +1,4 @@
-This folder contains some RL algorithms to solve Mountain Car problems.
+This folder contains some RL algorithms to solve Mountain Car problem.
 
 The Mountain_car enviroment is refered to gym library, OpenAI.
 
