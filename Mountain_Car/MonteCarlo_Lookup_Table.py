@@ -1,6 +1,6 @@
 import numpy as np
 import MountainCar_env
-
+# allow to edit github
 env = MountainCar_env.MountainCarEnv()
 env._max_episode_steps = 1000
 
